@@ -4,6 +4,12 @@
 
 The walkthrough details the creation of an Active Directory Lab environment using VMWare. Initially, a Microsoft Server was set up to run Active Directory. Next, a Domain Controller was configured to run a domain. Then, a Powershell script was utilized to create over 1000 users in Active Directory. Afterwards, new accounts were logged into on another client that uses the domain to connect to the internet. The lab simulates a business environment and requires a Microsoft Server 2019 ISO, a Windows 10 Enterprise ISO, VMWare, and a Powershell script.
 
+## Blog post
+
+To understand more about Active Directory and how to secure it please visit my blog: 
+
+[Active Directory: The Ultimate Guide to Securing Your Business Network](https://medium.com/@mojmdevo/active-directory-the-ultimate-guide-to-securing-your-business-network-fce9d231c3d4)
+
 ## Tools and Technologies: 
 
 Active Directory
