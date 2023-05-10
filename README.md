@@ -218,6 +218,23 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <br />
 </p>
 
+## Suggested Improvents and Next Steps
+
+After showing this project to many of my colleagues, I got some feedback. This included but isn't limited to:
+
+Expand the project: You can expand the project to include more advanced features like DNS, Certificate Services, and more.
+
+Implement Security Best Practices: Ensure that you implement security best practices, including disabling unnecessary services and ports, enforcing strong passwords, and regular patching.
+
+Practice security hardening techniques: Although this project was done in a lab environment, it's essential to practice security hardening techniques. You can start by implementing a firewall, securing your network, and configuring security settings for your Domain Controller.
+
+Implement Group Policies: Group Policies can be used to automate and enforce security settings for all your devices. You can configure Group Policies to control user access, password policies, and other security-related settings.
+
+Monitor and Audit: Implement monitoring and auditing tools to keep track of your domain's activities. Use tools like Microsoft's Security Event Log to monitor and audit your domain's activities and detect any suspicious behavior.
+
+Implement Multi-Factor Authentication: Multi-Factor Authentication (MFA) is an essential security feature that provides an additional layer of protection against unauthorized access. Implement MFA for your domain to enhance security.
+
+Disaster Recovery Plan: Create a Disaster Recovery Plan to ensure that your domain can be restored in case of a disaster. The plan should include backups, restoration procedures, and testing to ensure that the plan works correctly.
 <!--
  ```diff
 - text in red
